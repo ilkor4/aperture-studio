@@ -1,0 +1,9 @@
+.second-row__title {
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 2px;
+  line-height: 20px;
+  color: white;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}

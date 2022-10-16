@@ -1,0 +1,8 @@
+.photo-icons__item {
+  color: white;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  display: flex;
+  align-items: flex-start;
+}

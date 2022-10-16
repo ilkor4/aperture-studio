@@ -1,0 +1,19 @@
+.button {
+  padding: 0;
+  border: 0;
+  text-decoration: none;
+  color: black;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  cursor: pointer;
+  border-radius: 14px;
+  background-color: white;
+  width: 155px;
+  height: 42px;
+}
+
+.button:hover {
+  transform: scale(1.1);
+  transition: transform .6s ease-in-out;
+}

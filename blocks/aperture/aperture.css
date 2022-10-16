@@ -1,0 +1,9 @@
+.aperture {
+  width: 100%;
+  min-height: 710px;
+  background-image: url(../../images/backgrounds/aperture.png);
+  object-fit: cover;
+  background-position: top;
+  position: relative;
+  background-repeat: no-repeat;
+}

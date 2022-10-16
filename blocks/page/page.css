@@ -1,0 +1,9 @@
+.page {
+  min-width: 1210px;
+  max-width: 1440px;
+  margin: 0 auto;
+  font-family: 'Poppins', 'Helvetica Neue', Arial, sans-serif;
+  color: black;
+  background-color: black;
+  overflow: hidden;
+}

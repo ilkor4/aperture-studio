@@ -1,0 +1,8 @@
+.logo-content {
+  width: 1168px;
+  height: 158px;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}

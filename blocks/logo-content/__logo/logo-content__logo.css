@@ -1,0 +1,17 @@
+.logo-content__logo {
+  margin-right: 109px;
+}
+
+.logo-content__logo:last-child {
+  margin-right: 46px;
+}
+
+.logo-content__logo:first-child {
+  margin-left: 46px;
+}
+
+.logo-content__logo:hover {
+  cursor: pointer;
+  transform: scale(1.2);
+  transition: transform 1s ease;
+}

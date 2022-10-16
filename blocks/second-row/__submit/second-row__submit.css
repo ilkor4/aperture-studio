@@ -1,0 +1,18 @@
+.second-row__submit {
+  margin-right: 6px;
+  height: 30px;
+  width: 63;
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 11px;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  cursor: pointer;
+}
+
+.second-row__submit:hover {
+  transform: scale(1.1);
+  transition: transform .6s ease-in-out;
+}

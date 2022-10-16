@@ -1,0 +1,14 @@
+.first-row__areas-link {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: white;
+  text-decoration: none;
+  text-transform: none;
+  letter-spacing: normal;
+}
+
+.first-row__areas-link:hover {
+  opacity: .4;
+  transition: opacity .6s ease;
+}

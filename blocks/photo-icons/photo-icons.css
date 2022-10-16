@@ -1,0 +1,9 @@
+.photo-icons {
+  display: flex;
+  width: 295px;
+  justify-content: space-between ;
+  position: absolute;
+  top: 659px;
+  right: 40px;
+  align-items:flex-start;
+}

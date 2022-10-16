@@ -1,0 +1,15 @@
+.second-row__form {
+  position: absolute;
+  top: 42px;
+  right: 0;
+  width: 458px;
+  height: 52px;
+  box-sizing: border-box;
+  border: 1px #E5E7EB solid;
+  border-radius: 12px;
+  background: #F9FAFB;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  overflow: hidden;
+}

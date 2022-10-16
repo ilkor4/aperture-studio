@@ -1,0 +1,8 @@
+.monstera {
+  width: 100%;
+  min-height: 600px;
+  background-image: url(../../images/backgrounds/monstera.png);
+  object-fit: cover;
+  background-repeat: no-repeat;
+  position: relative;
+}

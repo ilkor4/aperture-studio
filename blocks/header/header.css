@@ -1,0 +1,8 @@
+.header {
+max-width: 1200px;
+min-height: 90px;
+background-color: black;
+margin: 0 auto 0;
+display: flex;
+justify-content: space-between;
+}

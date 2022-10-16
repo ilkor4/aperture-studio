@@ -1,0 +1,4 @@
+.first-row__columns {
+  display: flex;
+  flex-direction: row;
+}

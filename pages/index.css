@@ -1,0 +1,102 @@
+/* Подключил normalize */
+@import url(../vendor/normalize.css);
+
+/* Подключил шрифты */
+@import url(../vendor/fonts/poppins/poppins.css);
+
+/* Подключил стили ко всей странице */
+@import url(../blocks/page/page.css);
+
+/* Подключил стили к шапке */
+@import url(../blocks/header/header.css);
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/logo/_place/logo_place_header.css);
+@import url(../blocks/menu/menu.css);
+@import url(../blocks/menu/__list/menu__list.css);
+@import url(../blocks/list/list.css);
+@import url(../blocks/menu/__link/menu__link.css);
+@import url(../blocks/button/button.css);
+
+/* Подключил стили к секции aperture */
+@import url(../blocks/aperture/aperture.css);
+@import url(../blocks/description/description.css);
+@import url(../blocks/margin-zero/margin-zero.css);
+@import url(../blocks/description/__subtitle/description__subtitle.css);
+@import url(../blocks/description/__title/description__title.css);
+@import url(../blocks/description/__text/description__text.css);
+@import url(../blocks/photo-icons/photo-icons.css);
+@import url(../blocks/photo-icons/__item/photo-icons__item.css);
+@import url(../blocks/photo-icons/__image/photo-icons__image.css);
+
+/* Подключил стили к секции areas */
+@import url(../blocks/areas/areas.css);
+@import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-subtitle/section-subtitle.css);
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__title/cards__title.css);
+@import url(../blocks/cards/__text/cards__text.css);
+@import url(../blocks/rotate/rotate.css);
+@import url(../blocks/button/__image/button__image.css);
+@import url(../blocks/button/_pos/button_pos_cards.css);
+
+/* Подключил стили к секции fuji */
+@import url(../blocks/fuji/fuji.css);
+@import url(../blocks/brief/brief.css);
+@import url(../blocks/brief/__title/brief__tile.css);
+@import url(../blocks/brief/__text/brief__text.css);
+@import url(../blocks/photo-icons/_pos/photo-icons_pos_section.css);
+
+/* Подключил стили к секции tools */
+@import url(../blocks/tools/tools.css);
+@import url(../blocks/two-columns/two-columns.css);
+@import url(../blocks/first-column/first-column.css);
+@import url(../blocks/first-column/__desc/first-column__desk.css);
+@import url(../blocks/first-column/__subtitle/first-column__subtitle.css);
+@import url(../blocks/first-column/__title/first-column__title.css);
+@import url(../blocks/first-column/__text/first-column__text.css);
+@import url(../blocks/second-column/second-column.css);
+@import url(../blocks/photo-icons/_pos/photo-icons_pos_tools.css);
+/* Подключил стили к секции monstera */
+@import url(../blocks/monstera/monstera.css);
+
+/* Подключил стили к секции clients */
+@import url(../blocks/clients/clients.css);
+@import url(../blocks/logo-content/logo-content.css);
+@import url(../blocks/logo-content/__logo/logo-content__logo.css);
+
+/* Подключил стили к секции himalays */
+@import url(../blocks/himalays/himalays.css);
+
+/* Подключил стили к секции forrm */
+@import url(../blocks/form/form.css);
+@import url(../blocks/button/_pos/button_pos_form.css);
+
+/* Подключил стили к секции footer */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/three-rows/three-rows.css);
+@import url(../blocks/first-row/first-row.css);
+@import url(../blocks/first-row/__columns/first-row__column.css);
+@import url(../blocks/first-row/__first-column/first-row__first-column.css);
+@import url(../blocks/logo/_place/logo_place_footer.css);
+@import url(../blocks/first-row/__text/first-row__text.css);
+@import url(../blocks/first-row/__second-column/first-row__second-column.css);
+@import url(../blocks/first-row/__areas-links/first-row__areas-links.css);
+@import url(../blocks/first-row/__areas-link/first-row__areas-link.css);
+@import url(../blocks/first-row/__third-column/first-row__third-column.css);
+@import url(../blocks/first-row/__pages-links/first-row__pages-links.css);
+@import url(../blocks/first-row/__pages-link/first-row__pages-link.css);
+@import url(../blocks/second-row/second-row.css);
+@import url(../blocks/second-row/__string/second-row___string.css);
+@import url(../blocks/second-row/__title/second-row__title.css);
+@import url(../blocks/second-row/__form/second-row__form.css);
+@import url(../blocks/second-row/__input/second-row__input.css);
+@import url(../blocks/second-row/__submit/second-row__submit.css);
+@import url(../blocks/second-row/__text/second-row__text.css);
+@import url(../blocks/third-row/third-row.css);
+@import url(../blocks/third-row/__copyright/third-row__copyright.css);
+
+
+
+
+

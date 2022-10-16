@@ -1,0 +1,5 @@
+.button_pos_cards {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}

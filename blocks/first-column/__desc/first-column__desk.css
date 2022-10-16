@@ -1,0 +1,8 @@
+.first-column__desk {
+  margin: auto;
+  max-width: 600px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  padding: 60px 46px 40px 40px;
+}

@@ -1,0 +1,9 @@
+.cards__text {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: #C0C0C0;
+  margin: 10px 0 16px 0;
+  font-style: normal;
+  min-height: 80px;
+}

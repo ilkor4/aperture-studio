@@ -1,0 +1,12 @@
+.second-row__string {
+  width: 1168px;
+  margin: 0 auto 36px;
+  height: 2px;
+  background-color: white;
+  border: none;
+  margin-bottom: 20px;
+}
+
+.second-row__string:last-of-type {
+  margin: 0;
+}

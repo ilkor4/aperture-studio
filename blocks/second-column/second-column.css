@@ -1,0 +1,12 @@
+.second-column {
+  width: 50%;
+  min-height: 540px;
+  background-image: url(../../images/backgrounds/tools.png);
+  object-fit: cover;
+  background-repeat: no-repeat;
+}
+
+.second-column:hover {
+  transform: scale(1.05);
+  transition: transform 1s ease;
+}

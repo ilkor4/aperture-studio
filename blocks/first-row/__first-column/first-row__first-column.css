@@ -1,0 +1,6 @@
+.first-row__first-column {
+  margin-right: 252px;
+  display: flex;
+  min-height: 200px;
+  flex-direction: column;
+}
