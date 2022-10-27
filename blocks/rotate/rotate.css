@@ -5,5 +5,5 @@
 }
 
 .button:hover .rotate {
-  animation: rotation 5s infinite forwards;
+  animation: rotation 2s infinite forwards linear;
 }
