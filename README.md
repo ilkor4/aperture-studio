@@ -1,4 +1,4 @@
-<h1 align="center">how-to-learn</h1>
+<h1 align="center">aperture-studios</h1>
 
 ---
 
